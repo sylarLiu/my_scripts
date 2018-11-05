@@ -14,7 +14,7 @@
 #===============================================================================
 
 apt-get update
-pt-get install shadowsocks -y
+apt-get install shadowsocks -y
 apt-get install privoxy -y
 
 prefix="/usr/local/etc/proxy"
