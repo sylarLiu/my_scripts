@@ -74,4 +74,3 @@ echo '#! /usr/bin/env bash
 export http_proxy=""
 export https_proxy=""
 ' > "${prefix}/stop_terminal_proxy"
-
